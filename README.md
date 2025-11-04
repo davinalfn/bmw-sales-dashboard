@@ -1,4 +1,5 @@
 **BMW Global Sales Dashboard (2010–2024)**
+
 Proyek ini bertujuan untuk menganalisis dan memvisualisasikan data penjualan global BMW selama periode 2010 hingga 2024 dengan menggunakan Python untuk tahap analisis data serta Power BI untuk pembuatan dashboard interaktif.
 Melalui project ini, saya berusaha memahami bagaimana performa penjualan BMW berubah dari tahun ke tahun, bagaimana kontribusi dari setiap wilayah (region), serta bagaimana tren transisi menuju kendaraan listrik (Electric Vehicle) mempengaruhi hasil penjualan secara keseluruhan.
 
