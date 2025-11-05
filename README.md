@@ -63,10 +63,8 @@ Dashboard ini membantu memahami pola penjualan, mengidentifikasi tren pasar, ser
 
 
 ## 👨‍💻 Author
-
-**Davin Alifian Nuridra**
-📧 [Email](davinalifian178@gmail.com)
-🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/davin-alifian-92870b286/))
-💻 [GitHub](https://github.com/davinalfn)
-
+**Davin Alifian Nurindra**
+Email      : davinalifian178@gmail.com
+Linkedin   : https://www.linkedin.com/in/davin-alifian-92870b286/
+GitHub     : https://github.com/davinalfn
 
