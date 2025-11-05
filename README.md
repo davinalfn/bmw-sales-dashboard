@@ -62,7 +62,7 @@ Melalui proyek ini, saya belajar bagaimana menggabungkan **analisis data (Python
 Dashboard ini membantu memahami pola penjualan, mengidentifikasi tren pasar, serta memperlihatkan bagaimana strategi perusahaan seperti BMW dapat disesuaikan dengan perubahan tren global menuju elektrifikasi kendaraan.
 
 
-## 👨‍💻 Author
+Author
 **Davin Alifian Nurindra**
 Email      : davinalifian178@gmail.com
 Linkedin   : https://www.linkedin.com/in/davin-alifian-92870b286/
